@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(233, 226, 217);
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+img {
+    border-radius: 20px;
+    width: auto;
+    height: 300px;
+
+}
+
+ul  {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: burlywood;
+    border-radius: 100px;
+    margin-right: 40%;
+    margin-left: 40%;
+    list-style-type: none;
+    border-width: 50px;
+   }
+
+a  {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+li  {
+    margin-left: -10%;
+}
