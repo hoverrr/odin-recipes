@@ -14,3 +14,20 @@ img {
     height: 300px;
 
 }
+
+.head-big {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+li {
+    font-family: sans-serif;
+}
+
+#home {
+    height: 35px;
+    width: auto;
+}
